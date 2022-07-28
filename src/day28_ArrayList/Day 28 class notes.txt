@@ -1,0 +1,40 @@
+Day28 class notes
+
+ArrayList Methods:
+
+add(data): adds the data after the last index of the ArrayList
+add(index, data): iserts the data at the given index
+
+size() : returns the total number of elemets
+
+get(index) : returns the element at the given index
+
+set(index,data) :
+
+remove(int index) :
+
+remove(object) :
+
+clear() :
+
+indexOf(data):  returns the first matching element's index number, returns int.
+
+lastIndexOf(data):
+
+contains(data) :
+
+equals(ArrayList):
+
+containsAll():
+
+removeAll():
+
+retainAll() :
+
+
+
+
+
+
+
+
